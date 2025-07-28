@@ -1,6 +1,6 @@
 # GFP_automation
 This macro is designed to iteratively process leaf scans containing dark circular regions and measure their intensity. Background signal is automatically removed. Useful for automated quantification of GFP and luciferase scans.
-The final output includes a .png image with each region of interest (ROI) labeled by ID, and a .txt file containing the corresponding 8-bit greyscale intensity measurements.
+The final output includes a .png image with each region of interest (ROI) labeled by ID, and a .txt file containing the corresponding 8-bit greyscale intensity measurements. Please watch the test run video to see how the macro runs.
 
 ### Sample data:
 <img src="https://github.com/user-attachments/assets/d828ed32-5f05-415e-bce6-6892644f9ae1" width="500" height="400">
