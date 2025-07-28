@@ -20,3 +20,12 @@ The final output includes a .png image with each region of interest (ROI) labele
 3. Run FIJI and drag gfp.automation.ijm into the FIJI window to open the macro file
 4. Click "RUN" at the bottom of the terminal. When the pop-up file explorer window appears, select the main directory containing your data
 5. Measurements will be saved in a folder named "measurements" in each subfolder.
+
+Please note that certain parameters can be adjusted to achieve maximum accuracy when selecting areas of interest. Parameters that the user can adjust are marked out with a clear "#########USER DESIGNATION########" line, along with a short description of how the parameter affects the accuracy of ROI selections (see below).
+
+<img width="670" height="71" alt="image" src="https://github.com/user-attachments/assets/9431a6cb-d80f-4396-b878-4012a177526d" />
+
+
+
+
+
